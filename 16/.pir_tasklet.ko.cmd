@@ -1,0 +1,1 @@
+cmd_/home/wh2per/Desktop/16/pir_tasklet.ko := arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/wh2per/Desktop/16/pir_tasklet.ko /home/wh2per/Desktop/16/pir_tasklet.o /home/wh2per/Desktop/16/pir_tasklet.mod.o ;  true

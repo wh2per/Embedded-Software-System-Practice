@@ -1,0 +1,1 @@
+cmd_/home/wh2per/Desktop/14/ku_pir.ko := arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/wh2per/Desktop/14/ku_pir.ko /home/wh2per/Desktop/14/ku_pir.o /home/wh2per/Desktop/14/ku_pir.mod.o ;  true

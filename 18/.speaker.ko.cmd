@@ -1,0 +1,1 @@
+cmd_/home/wh2per/Desktop/esw/18/speaker.ko := arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/wh2per/Desktop/esw/18/speaker.ko /home/wh2per/Desktop/esw/18/speaker.o /home/wh2per/Desktop/esw/18/speaker.mod.o ;  true

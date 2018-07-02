@@ -1,0 +1,1 @@
+cmd_/home/wh2per/Desktop/2/simple_char.ko := arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/wh2per/Desktop/2/simple_char.ko /home/wh2per/Desktop/2/simple_char.o /home/wh2per/Desktop/2/simple_char.mod.o ;  true

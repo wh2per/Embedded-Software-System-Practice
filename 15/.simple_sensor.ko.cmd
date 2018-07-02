@@ -1,0 +1,1 @@
+cmd_/home/wh2per/Desktop/15/simple_sensor.ko := arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/wh2per/Desktop/15/simple_sensor.ko /home/wh2per/Desktop/15/simple_sensor.o /home/wh2per/Desktop/15/simple_sensor.mod.o ;  true

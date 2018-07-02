@@ -1,0 +1,1 @@
+cmd_/home/wh2per/Desktop/11/simple_block.ko := arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/wh2per/Desktop/11/simple_block.ko /home/wh2per/Desktop/11/simple_block.o /home/wh2per/Desktop/11/simple_block.mod.o ;  true

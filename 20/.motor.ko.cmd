@@ -1,0 +1,1 @@
+cmd_/home/wh2per/Desktop/esw/20/motor.ko := arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/wh2per/Desktop/esw/20/motor.ko /home/wh2per/Desktop/esw/20/motor.o /home/wh2per/Desktop/esw/20/motor.mod.o ;  true

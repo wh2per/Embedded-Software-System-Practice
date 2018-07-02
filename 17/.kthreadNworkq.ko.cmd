@@ -1,0 +1,1 @@
+cmd_/home/wh2per/Desktop/17/kthreadNworkq.ko := arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/wh2per/Desktop/17/kthreadNworkq.ko /home/wh2per/Desktop/17/kthreadNworkq.o /home/wh2per/Desktop/17/kthreadNworkq.mod.o ;  true

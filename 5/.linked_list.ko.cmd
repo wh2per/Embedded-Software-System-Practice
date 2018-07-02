@@ -1,0 +1,1 @@
+cmd_/home/wh2per/Desktop/5/linked_list.ko := arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/wh2per/Desktop/5/linked_list.ko /home/wh2per/Desktop/5/linked_list.o /home/wh2per/Desktop/5/linked_list.mod.o ;  true

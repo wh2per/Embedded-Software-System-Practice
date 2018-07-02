@@ -1,0 +1,1 @@
+cmd_/home/wh2per/Desktop/19/dht11.ko := arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/wh2per/Desktop/19/dht11.ko /home/wh2per/Desktop/19/dht11.o /home/wh2per/Desktop/19/dht11.mod.o ;  true

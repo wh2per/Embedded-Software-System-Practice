@@ -1,0 +1,1 @@
+cmd_/home/wh2per/Desktop/8/ch2_mod.ko := arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/wh2per/Desktop/8/ch2_mod.ko /home/wh2per/Desktop/8/ch2_mod.o /home/wh2per/Desktop/8/ch2_mod.mod.o ;  true

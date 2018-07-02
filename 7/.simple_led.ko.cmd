@@ -1,0 +1,1 @@
+cmd_/home/wh2per/Desktop/7/simple_led.ko := arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/wh2per/Desktop/7/simple_led.ko /home/wh2per/Desktop/7/simple_led.o /home/wh2per/Desktop/7/simple_led.mod.o ;  true

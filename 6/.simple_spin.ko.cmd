@@ -1,0 +1,1 @@
+cmd_/home/wh2per/Desktop/6/simple_spin.ko := arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/wh2per/Desktop/6/simple_spin.ko /home/wh2per/Desktop/6/simple_spin.o /home/wh2per/Desktop/6/simple_spin.mod.o ;  true

@@ -1,0 +1,1 @@
+cmd_/home/wh2per/Desktop/8/simple_timer.ko := arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/wh2per/Desktop/8/simple_timer.ko /home/wh2per/Desktop/8/simple_timer.o /home/wh2per/Desktop/8/simple_timer.mod.o ;  true
